@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jitenuve.github.io/sitemap/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/jWK/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/Exn/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/Kju/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/lpH/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/Jxm/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/YOU/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/ODo/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/knJ/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/bVU/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/DsX/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/oMe/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/BPY/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/nls/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/Seu/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/UMo/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/yCt/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/Rhp/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/yDJ/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/WOu/sitemap_index.jitenuve
+Sitemap: https://jitenuve.github.io/WND/sitemap_index.jitenuve
